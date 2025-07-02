@@ -30,5 +30,3 @@ def test_order_creation_and_retrieval():
     print("Данные заказа:")
     print(order_data)
     
-if __name__ == "__main__":
-    test_order_creation_and_retrieval()
